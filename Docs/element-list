@@ -1,0 +1,15 @@
+Controller
+Controller.Game
+Controller.Menu
+Controller.Sounds
+Main
+Model
+Model.Game
+Model.Game.Blocks
+Model.Game.Rules
+Model.Menu
+View
+View.Game
+View.Game.Blocks
+View.Menu.Frames
+View.Menu.Generics
